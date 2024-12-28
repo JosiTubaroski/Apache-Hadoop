@@ -73,14 +73,7 @@ O Hadoop revolucionou o mundo da tecnologia, oferecendo soluções para desafios
  - Hadoop abriu caminho para o surgimento de ferramentas e frameworks como Apache Spark, Flink e Storm, que trouxeram novos paradigmas de processamento.
 
    Linha do Tempo Resumida
-Ano	Marco Histórico
-2003	Google publica o artigo do Google File System (GFS).
-2004	Google publica o artigo do MapReduce.
-2005	Doug Cutting e Mike Cafarella criam o Hadoop no Nutch.
-2006	Hadoop se torna um projeto independente.
-2008	Hadoop entra na Apache Software Foundation.
-2011	Facebook cria o maior cluster Hadoop com 100 PB.
-2013	Introdução do YARN como parte do Hadoop 2.0.
+
 
 
 
