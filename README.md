@@ -76,7 +76,8 @@ O Hadoop revolucionou o mundo da tecnologia, oferecendo soluções para desafios
 
  - Hadoop abriu caminho para o surgimento de ferramentas e frameworks como Apache Spark, Flink e Storm, que trouxeram novos paradigmas de processamento.
 
-https://github.com/JosiTubaroski/Apache-Hadoop/blob/main/hadoop_Linha_Tempo.png
+<img src="https://github.com/JosiTubaroski/Apache-Hadoop/blob/main/hadoop_Linha_Tempo.png">
+
 
 
 
